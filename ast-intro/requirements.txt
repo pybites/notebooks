@@ -1,0 +1,5 @@
+-r ../requirements.txt
+stdlib_list
+pandas
+matplotlib
+plotly
